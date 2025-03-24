@@ -40,8 +40,14 @@ class ModelManager:
     def load_models(self):
         """Load pre-trained models from disk"""
         try:
+            # Get the directory where the current file is located
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            # Go up one level to the app directory
+            app_dir = os.path.dirname(current_dir)
+            # Construct the path to the model file
+            model_path = os.path.join(app_dir, 'linear_regression_model.pkl')
             # Load the base linear regression model that was already created
-            with open('linear_regression_model.pkl', 'rb') as file:
+            with open(model_path, 'rb') as file:
                 linear_model, self.scaler, self.label_encoder = pickle.load(file)
                 self.models["Linear Regression"] = linear_model
                 
