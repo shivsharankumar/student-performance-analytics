@@ -39,7 +39,7 @@ This advanced analytics platform predicts student performance based on multiple 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/student-performance-analytics.git
+git clone https://github.com/shivsharankumar/student-performance-analytics.git
 cd student-performance-analytics
 
 # Create and activate virtual environment
@@ -97,6 +97,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - shivsharan47@gmail.com
 
-Project Link: [https://github.com/yourusername/student-performance-analytics](https://github.com/yourusername/student-performance-analytics) 
+Project Link: [https://github.com/shivsharankumar/student-performance-analytics](https://github.com/shivsharankumar/student-performance-analytics) 
