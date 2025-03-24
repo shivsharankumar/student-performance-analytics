@@ -87,9 +87,7 @@ student-performance-analytics/
 - **Model Interpretation**: SHAP
 - **Hyperparameter Optimization**: Optuna, Scikit-optimize
 
-## Screenshots
 
-[Add your screenshots here]
 
 ## License
 
@@ -100,3 +98,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Your Name - shivsharan47@gmail.com
 
 Project Link: [https://github.com/shivsharankumar/student-performance-analytics](https://github.com/shivsharankumar/student-performance-analytics) 
+
+Application Deployed Link:- https://student-performance-analytics.streamlit.app/
