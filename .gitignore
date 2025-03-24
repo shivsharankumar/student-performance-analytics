@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.env
+.DS_Store
+.venv
+.vscode
+.venv
+Student-Performance.csv
+LinearRegression.ipynb
+
